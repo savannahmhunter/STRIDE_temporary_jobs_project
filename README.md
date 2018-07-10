@@ -1,11 +1,12 @@
 ## STRIDE_temporary_jobs_project README
 
 The purpose of this project is to analyze content from temporary job postings.
-This is an exploratory project in which I will analyze the frequency of words and topics within a sample of temporary job postings to understand how employers frame and promote the "ideal" temporary worker. 
 
-I plan to collect data from the University of California, Davis Human Resources Department. The HR department will pull their posting data from 2016, 2017, and 2018 for all temporary and contract positions and provide me with an excel or .csv file containing all the text data that appears on a job posting. 
+This is an exploratory project analyzing the frequency of words and topics within a sample of temporary job postings to understand how employers frame and promote the "ideal" temporary worker. 
 
-At this point I do not have plans to have a test set. 
+I plan to collect data from the University of California, Davis Human Resources Department. The HR department will pull their posting data from 2016, 2017, and 2018 for all temporary, contract, and limited positions and provide me with an excel or .csv file containing all the text data that appears on a job posting. 
+
+At this point I do not have plans to have a test set. I am not sure how many cases the UC Davis HR dataset will contain. However, after receiving the first data file from UC Davis HR I may be able to obtain data from years prior to 2016.
 
 Any file or script added to this repository will be added or linked out to storage location from one of the following components:
 * Data management plan file (explains how data are to be organized, stored and shared)
