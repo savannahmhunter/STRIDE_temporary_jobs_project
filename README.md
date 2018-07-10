@@ -1,6 +1,6 @@
 ## STRIDE_temporary_jobs_project README
 
-The purpose of this project is to analyze content from temporary job postings. Overall research question: what are the most common words and topics that appear across temporary job postings? What might this tell us about employer's "ideal" temporary worker?
+The purpose of this project is to analyze content from temporary job postings. Overall research questions: what are the most common words and topics that appear across temporary job postings? What might this tell us about the employer's "ideal" temporary worker?
 
 This is an exploratory project analyzing the frequency of words and topics within a sample of temporary job postings to understand how employers frame and promote the "ideal" temporary worker. This project will contribute to the literature on mechanisms of workplace control. Questions of workplace control have been central to studies in the sociology of work. Control scholars ask why do people work hard on job? How do employers extract labor from workers (i.e. how do they get them to consent to work, to being controlled on the job? How do they get them to work hard?). 
 
