@@ -5,16 +5,16 @@ The raw data was obtained from the UC Davis HR Department. Temporary, contract, 
 Original job postings were available at this link at the time they were posted: https://www.employment.ucdavis.edu/applicants/jsp/shared/search/Search_css.jsp.
 
 Data should contain job postings from the following search parameters:
-	• Department: Temporary Employment Services - 062120
-	• Department: Temporary Pool Admn - 063006
-	• Department: Temp Pool Templates - 000001
-	• Payroll Title: Temporary Employment - Clerical Floater
-	• Payroll Title: Temporary Employment - Clinical/Patient Support
-	• Payroll Title: Temporary Employment - Custodian/Sr. Custodian
-	• Payroll Title: Temporary Employment - Floater (Exempt)
-	• Payroll Title: Temporary Employment (Non-Exempt)
-	• Appointment Type: Contract
-	• Appointment Type: Limited
+* Department: Temporary Employment Services - 062120
+* Department: Temporary Pool Admn - 063006
+* Department: Temp Pool Templates - 000001
+* Payroll Title: Temporary Employment - Clerical Floater
+* Payroll Title: Temporary Employment - Clinical/Patient Support
+* Payroll Title: Temporary Employment - Custodian/Sr. Custodian
+* Payroll Title: Temporary Employment - Floater (Exempt)
+* Payroll Title: Temporary Employment (Non-Exempt)
+* Appointment Type: Contract
+* Appointment Type: Limited
 
 Job posting data contains the following fields:
 * Requisition number
