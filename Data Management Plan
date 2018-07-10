@@ -1,10 +1,10 @@
 ## Data Management Plan
    
   How will data be collected?
-    The data will be retreived from the UC Davis HR department either via email or electronic link or via a physical harddrive. 
+    The data will be retreived from the UC Davis HR department either via email or electronic link or via a physical harddrive. Temporary, contract, and limited positions posted to career opportunities website were pulled by the HR Department for years 2016-2018.
     
   Where will raw data be stored?
-    The raw data will be stored on google drive under my UC Davis account - shunter@ucdavis.edu
+    The raw data will be stored on google drive under my UC Davis account - shunter@ucdavis.edu. The folder naming system will match what appears on github. A link to the raw and analyzed data will be available on github.
     
   How will the raw data be named?
     The raw data will be named: YYYYMMDD_tjp_ucddata1618_tcl_raw
@@ -21,8 +21,9 @@
     
   How will the analysis be recorded?
     The analysis will be recorded with an R script. In the script I will type detailed notes regarding what the code does.
+    
     Where will the analyzed data be stored?
-    The analyzed data will also be stored on google drive.
+    The analyzed data will also be stored on google drive. Links available in the appropriate raw and analyzed data folders.
     
   How will the data be shared? Are there any considerations and restrictions for sharing your data?
     Potential repositories include UC Davis Dash, ResearchGate, ICPSR (Inter-university Consortium for Political and Social Research). The data was publicly available on the UC Davis website so there are no concerns about sensitive data.
