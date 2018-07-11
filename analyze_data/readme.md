@@ -1,0 +1,1 @@
+This is the readme for my analysis and references the data I used and the final dataset I produced. This analysis takes the raw data file from Google drive (link to data available in the raw_data folder) and runs the attached R script to produce the analyzed data file. The resulting dataset will be available via this link in Google drive and will be shared to a repository.
