@@ -2,7 +2,7 @@
 
 The raw data was obtained from the UC Davis HR Department. Temporary, contract, and limited positions posted to career opportunities website were pulled by the HR Department for years 2016-2018. 
 
-Original job postings were available at this link at the time they were posted: https://www.employment.ucdavis.edu/applicants/jsp/shared/search/Search_css.jsp.
+Original job postings were available at this [link](https://www.employment.ucdavis.edu/applicants/jsp/shared/search/Search_css.jsp) at the time they were posted.
 
 Data should contain job postings from the following search parameters:
 * Department: Temporary Employment Services - 062120
@@ -16,7 +16,7 @@ Data should contain job postings from the following search parameters:
 * Appointment Type: Contract
 * Appointment Type: Limited
 
-Job posting data contains the following fields:
+Job posting data contain the following fields:
 * Requisition number
 * Recruitment open to
 * Final filing date

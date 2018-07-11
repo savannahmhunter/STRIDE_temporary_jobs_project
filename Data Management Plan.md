@@ -14,7 +14,7 @@ I chose this naming convention as there is a possibility that I may be able to o
 ### How will data be analyzed?
 The data will be analyzed in R using text mining techniques such as word frequency analysis and topic modeling and potentially other NLP models depending on amount of data available. A sample of 10 current job postings shows that posts range from around 550 words to 1200 words. The amount of words could be cut down by dropping certain fields not relevant to the project for example what files applicants need to attach with their application.
 
-### How will analyzed data be named?
+### How will the analyzed data be named?
 The analyzed data will have the same naming convention above but raw will be dropped and replaced with analyzed. For example: 20180709_tjp_ucddata1618_tcl_analyzed. Beginning the file name with the current date also gives me flexibility to change that if need be as I update the data. However, my hope is to only have two datasets. One, raw file and one that pulls from the raw file runs the code and then saves the data as the analyzed file.
     
 ### How will the analysis be recorded?
