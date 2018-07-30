@@ -4,7 +4,7 @@ The raw data was obtained from the UC Davis HR Department. Temporary, contract, 
 
 Original job postings were available at this [link](https://www.employment.ucdavis.edu/applicants/jsp/shared/search/Search_css.jsp) at the time they were posted.
 
-Data should contain job postings from the following search parameters:
+Data pulled contained job postings from the following search parameters:
 * Department: Temporary Employment Services - 062120
 * Department: Temporary Pool Admn - 063006
 * Department: Temp Pool Templates - 000001
