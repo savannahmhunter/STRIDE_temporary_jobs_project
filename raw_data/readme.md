@@ -42,4 +42,4 @@ Job posting data contain the following fields:
 * Quick link to the position
 * Search category
 
-The raw data can be found [here](https://drive.google.com/file/d/1Tkt5Qbdn9AIT5U7D-YQ45ShqDPDe7Gtq/view?usp=sharing):
+The raw data can be found [here](https://drive.google.com/file/d/1Tkt5Qbdn9AIT5U7D-YQ45ShqDPDe7Gtq/view?usp=sharing)
