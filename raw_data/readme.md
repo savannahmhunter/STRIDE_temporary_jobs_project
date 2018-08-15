@@ -42,4 +42,6 @@ Job posting data contain the following fields:
 * Quick link to the position
 * Search category
 
-The raw data can be found [here]()
+The raw data will be linked [here]()
+
+This folder also contains the replication files for cleaning the raw data in OpenRefine as well as a readmereplication file to explain the cleaning steps taken.
