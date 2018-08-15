@@ -20,7 +20,7 @@ I plan to collect data from the University of California, Davis Human Resources 
 At this point I do not have plans to have a test set. I am not sure how many cases the UC Davis HR dataset will contain. However, after receiving the first data file from UC Davis HR I may be able to obtain data from years prior to 2016.
 
 ### Where to find materials:
-Any file or script added to this repository will be added or linked out to Google drive from one of the following components:
+All files are on my PC and backed-up weekly to google drive. This github repository mirrors the structure of the files and provides information on cleaning steps taken. In this repository you will find:
 * Data management plan file (explains how data are to be organized, stored and shared)
-* raw_data folder (a link to the storage of the directly downloaded data with no cleaning)
-* analyze_data folder (scripts for any transformation of the raw data and links to the resulting processed dataset )
+* raw_data folder (will contain link to the storage of the directly downloaded data with no cleaning, contains information on cleaning steps undertaken)
+* analyze_data folder (scripts for analysis of the cleaned data and links to the resulting processed dataset will be made available)
